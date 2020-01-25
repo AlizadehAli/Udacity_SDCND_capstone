@@ -10,7 +10,7 @@ Udacity ID of aalizede[at]ford.com.tr
 
 For this project, ROS nodes are written to implement core functionality of the autonomous vehicle system, including traffic light detection, control, and waypoint following! The following is a system architecture diagram showing the ROS nodes and topics used in the project. 
 
-![text](ros_diagram.png)
+![ros_diagram](./imgs/ros_digram.png)
 
 # [Rubic Points](https://review.udacity.com/#!/rubrics/1969/view)
 ---

@@ -1,7 +1,22 @@
 # Udacity_SDCND_capstone
 This repository contains an implementation of the capstone project of Udacity self-driving car nonodegree progrom.
 
-[![simulator](./imgs/sim_capstone.png)](https://youtu.be/kOXN0dhbxII)
+[![watch the video](./imgs/sim_capstone.png)](https://youtu.be/kOXN0dhbxII)
+
+**Individual Submission**
+Udacity ID of aalizede[at]ford.com.tr
+
+**System Architecture Diagram**
+
+For this project, ROS nodes are written to implement core functionality of the autonomous vehicle system, including traffic light detection, control, and waypoint following! The following is a system architecture diagram showing the ROS nodes and topics used in the project. 
+
+![text](ros_diagram.png)
+
+# [Rubic Points](https://review.udacity.com/#!/rubrics/1969/view)
+---
+**Did the car navigate the track successfully?**
+
+The submitted code runs the car smoothly and gently through the test track with fully respect to traffic light conditions. [This link](https://youtu.be/kOXN0dhbxII) shows the video recording of my implementation. 
 
 # How to Use
 ---
